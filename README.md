@@ -1,21 +1,23 @@
+## 👋 Hi, I’m Yuli!
 
-  👋 Hi, I’m Yuli
-  
-  👀 Economics and Accounting background + almost 4 years of experience in banking industry
-  
- 🌱 Loves working with numbers and learning new skill
- 
- 💞️ I am looking to switch my career toward data analytics to fulfill my dream of working full-time in a tech company. 
+###  **About Me** 👀
 
- 📫 How to reach me : yulianthyho@gmail.com
+- 🎓 A career switcher to be **Data Analyst** 📊📊
+- Economics & Accounting background + almost 4 years of experience in banking industry
+- 🌱 Loves working with numbers, data and learning new skills | SQL Enthusiast | Story telling with data
  
- **Currently**⌛⏳
+ ### **Currently**⌛⏳
  
- ✔ I took some certifications including DataCamp and Full Stack Data Analytics Program by RevoU. Chosen as as one of the top students to work as a Team Lead (Teaching Assistant) for the next batch.
+ ✔ I took some certifications including **[DataCamp](https://www.datacamp.com/)** and Full Stack Data Analytics Program by **[RevoU](https://revou.co/data-analytics)**. 👩 Chosen as as one of the top students to work as a Team Lead (Teaching Assistant) for the next batch.
 
  ✔ Hone my skill in SQL, Python, BigQuery, and data visualization using Tableau and Google Data Studio through hands on by doing some projects with public dataset.
  
- 
+### **Connect with Me** 💛
+
+- 📩 email : yulianthyho@gmail.com
+- [Linkedin](https://www.linkedin.com/in/yulianthyho/)
+- [Tableau Public](https://public.tableau.com/app/profile/yulianthy.ho)
+
 
 
 
