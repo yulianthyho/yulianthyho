@@ -8,7 +8,7 @@
  
  ### **Currently**⌛⏳
  
- ✔ I took some certifications including **[DataCamp](https://www.datacamp.com/)** and Full Stack Data Analytics Program by **[RevoU](https://revou.co/data-analytics)**. 👩 Chosen as as one of the top students to work as a Team Lead (Teaching Assistant) for the next batch.
+ ✔ I took some certifications including **[DataCamp](https://www.datacamp.com/)** and Full Stack Data Analytics Program by **[RevoU](https://revou.co/data-analytics)**. 👩 Chosen as as one of the top students in RevoU to work as a Team Lead (Teaching Assistant) for the next batch.
 
  ✔ Hone my skill in SQL, Python, BigQuery, and data visualization using Tableau and Google Data Studio through hands on by doing some projects with public dataset.
  
