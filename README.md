@@ -4,7 +4,7 @@
 
 - 🎓 A career switcher to be **Data Analyst** 📊📊
 - Economics & Accounting background + almost 4 years of experience in banking industry
-- 🌱 Loves working with numbers, data and learning new skills | SQL Enthusiast | Story telling with data
+- 🌱 Loves working with numbers, data and learning new skills 
  
  ### **Currently**⌛⏳
  
