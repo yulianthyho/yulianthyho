@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yuli!
  
-### **Connect with Me** 💛
+### **Connect with Me** 
 
 - 📩 email : yulianthyho@gmail.com
 - [Linkedin](https://www.linkedin.com/in/yulianthyho/)
