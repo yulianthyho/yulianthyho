@@ -5,6 +5,7 @@
 - 📩 email : yulianthyyulia@gmail.com
 - [Linkedin](https://www.linkedin.com/in/yulianthyho/)
 - [Tableau Public](https://public.tableau.com/app/profile/yulianthy.ho)
+- [Web Portofolio](https://yulianthyyulia.wixsite.com/portfolio)
 
 
 
