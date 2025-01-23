@@ -2,7 +2,7 @@
  
 ### **Connect with Me** 
 
-- 📩 email : yulianthyho@gmail.com
+- 📩 email : yulianthyyulia@gmail.com
 - [Linkedin](https://www.linkedin.com/in/yulianthyho/)
 - [Tableau Public](https://public.tableau.com/app/profile/yulianthy.ho)
 
